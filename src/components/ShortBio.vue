@@ -54,7 +54,7 @@ div.short_intro {
 div.short_intro div.text {
     flex: 3;
     min-width: 400px;
-    margin: 10px;
+    /* margin: 10px; */
     word-wrap: break-word;
     /* text-align:justify; */
 }

@@ -43,6 +43,9 @@
 </template>
 
 <style scoped>
+div.publications{
+    max-width: 100vw;
+}
 li{
     text-align:justify;
     line-height: 145%;
