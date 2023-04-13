@@ -5,12 +5,16 @@
             return {
                 pubs: [
                     {
-                        content: "Li, M., Punithakumar, K., Major, P.W., Le, L.H., Nguyen, C.K., Pereira, C.P., Kaipatur, N.R., Nebbe, B., Jaremko, J.L., Almeida, F.T. 2022. Temporomandibular joint segmentation in MRI images using deep learning. Journal of Dentistry. ",
+                        content: "Li, M., Punithakumar, K., Major, P. W., Le, L. H., Nguyen, K. C. T., Pacheco-Pereira, C., ... & Almeida, F. T. (2022). Temporomandibular joint segmentation in MRI images using deep learning. Journal of Dentistry, 127, 104345.",
                         url: "http://limengxun.com:8080/doc/79939b8d-3b5e-424c-8bec-cf44e401b19f"
                     },
                     {
                         content: "Li, M., Xu, X., Punithakumar, K., Le, L.H., Kaipatur, N. and Shi, B., 2020. Automated integration of facial and intra-oral images of anterior teeth. Computers in Biology and Medicine, p.103794. ",
                         url: "http://limengxun.com:8080/doc/48ef21bc-5178-4676-b4ad-d03b4f1aad1b"
+                    },
+                    {
+                        content: "Chifor, R., Li, M., Nguyen, K. C. T., Arsenescu, T., Chifor, I., Badea, A. F., ... & Le, L. H. (2021). Three-dimensional periodontal investigations using a prototype handheld ultrasound scanner with spatial positioning reading sensor. Medical Ultrasonography, 23(3), 297-304.",
+                        url: "http://limengxun.com:8080/doc/ce59387a-d79b-4d06-be60-767edb588ea7"
                     },
                     {
                         content: "Li, M.X., Xing, X., Li, Z.B. and Li, Z., 2021. Classification and treatment strategies for condylar fractures in children. British Journal of Oral and Maxillofacial Surgery, 59(7), pp.776-782. ",
