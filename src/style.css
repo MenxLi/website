@@ -1,12 +1,12 @@
 :root {
-    /* font-family: 'Times New Roman', Times, serif; */
+  font-family: 'Times New Roman', Times, serif;
     /* color: #333; */
   max-width: 860px;
   margin: auto;
   padding: 10px;
-  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  /* font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif; */
   line-height: 1.35;
-  font-weight: 400;
+  font-weight: 500;
 
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);

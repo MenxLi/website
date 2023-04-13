@@ -25,7 +25,7 @@
 
 <template>
     <div class="other_site">
-        <h3>More</h3>
+        <h3 class="subtitle">More</h3>
         <div class="sites">
         </div>
     </div>
@@ -33,6 +33,7 @@
 
 <style scoped>
 div.sites{
+    font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
     width: 110px;
     display: flex;
     flex-direction: row;

@@ -32,7 +32,7 @@
 
 <template>
     <div class="publications">
-            <h3>Publications</h3>
+            <h3 class="subtitle">Publications</h3>
             <ul>
                 <li v-for="pub in pubs">
                     {{ pub.content }} <label v-if="pub.url">[<a v-bind:href="pub.url">file</a>]</label>

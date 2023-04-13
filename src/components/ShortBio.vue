@@ -14,10 +14,10 @@
     <div class="short_intro">
         <img src="../assets/profile_photo.jpg" alt="" id="portrait">
         <div class="text">
-                <div id="full_name">
-                    <!-- Li, Mengxun -->
+                <!-- <div id="full_name">
                     About me
-                </div>
+                </div> -->
+                <h3 class="subtitle">About me</h3>
                 <hr>
 
                 <div class="gradIn">

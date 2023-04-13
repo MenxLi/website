@@ -11,6 +11,11 @@ import MoreSites from './components/MoreSites.vue'
 </template>
 
 <style>
+h3.subtitle{
+    font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+    margin-bottom: 10px;
+    font-size: larger;
+}
 @keyframes slideIn {
     0% {
         visibility: hidden;
