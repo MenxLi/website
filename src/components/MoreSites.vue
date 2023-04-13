@@ -3,11 +3,11 @@
     const sites = [
         {
             site_name: "Github",
-            site_utl: "https://github.com/MenxLi"
+            site_url: "https://github.com/MenxLi"
         },
         {
             site_name: "Bilibili",
-            site_utl: "https://space.bilibili.com/2031376"
+            site_url: "https://space.bilibili.com/2031376"
         },
     ];
     export default {
