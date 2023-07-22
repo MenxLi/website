@@ -1,10 +1,10 @@
 
 <script>
+    import profilePhotoImg from '../assets/profile_photo.jpg'
     export default {
         data(){
             return {
-                profilePhotoSrc: "http://limengxun.com/imgs/profile_photo.jpg"
-                // profilePhotoSrc: "assets/profile_photo.jpg"
+                profilePhotoSrc: profilePhotoImg
             }
         }
     }
